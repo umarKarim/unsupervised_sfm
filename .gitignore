@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+tboard_dir
+kitti_im_names.npy kitti_test_im_names.npy nyu_im_names.npy nyu_test_im_names.npy
